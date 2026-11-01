@@ -1,4 +1,4 @@
-def add(x, y):
+def add_number(x, y):
     return x + y
 
 num1 = float(input("Enter 1st number: "))
