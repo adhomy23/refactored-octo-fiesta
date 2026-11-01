@@ -1,6 +1,6 @@
 import unittest
 
-from addition import add_numbers
+from addition import add_number
 
 class Testaddition(unittest.TestCase):
     
